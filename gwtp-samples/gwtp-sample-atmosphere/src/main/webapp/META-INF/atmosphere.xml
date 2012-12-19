@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<atmosphere-handlers>
+    <atmosphere-handler context-root="/dispatch-async/*"
+                        class-name="com.gwtplatform.dispatch.server.atmosphere.AtmospherePollDispatchHandler">
+    </atmosphere-handler>
+</atmosphere-handlers>
